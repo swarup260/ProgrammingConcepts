@@ -31,7 +31,7 @@ NodeJS
 
 ReactPHP
 
-```The event loop is based on the reactor pattern (hence the name) and strongly inspired by libraries such as EventMachine (Ruby), Twisted (Python) and Node.js (V8).``
+>The event loop is based on the reactor pattern (hence the name) and strongly inspired by libraries such as EventMachine (Ruby), Twisted (Python) and Node.js (V8).
 
 
 #### USE CASES  
